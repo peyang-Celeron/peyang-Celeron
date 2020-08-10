@@ -15,5 +15,5 @@
   <br>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peyang-Celeron&repo=PeyangSuperbAntiCheat&theme=tokyonight" height="200"></a>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="slide-summary.png" height="200"></a>
 </p>
