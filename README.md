@@ -4,7 +4,8 @@
 <h4 align="center">永遠のJava8！</h4>
 <p align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="center" src="https://komarev.com/ghpvc/?username=peyang-Celeron&style=flat-square"></a>
-  <a href="mailto:contact@mail.peya.tokyo"><img align="center" src="https://img.shields.io/static/v1?label=Contact&message=contact@mail.peya.tokyo&color=success&style=flat-square"></a>
+  <a href="mailto:contact@mail.peya.tokyo"><img align="center" src="https://img.shields.io/static/v1?label=Contact&message=Mail&color=success&style=flat-square"></a>
+  <a href=""><img align="center" src="https://img.shields.io/static/v1?label=Discord&message=Peyang%230001&color=%237289DA&style=flat-square"></a>
   <br>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=peyang-Celeron&show_icons=true&theme=tokyonight" height="200"></a>
