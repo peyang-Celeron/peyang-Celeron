@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="center" src="https://komarev.com/ghpvc/?username=peyang-Celeron&style=flat-square"></a>
   <br>
-  <a href="mailto:contact@mail.peya.tokyo"><img align="center" src="https://img.shields.io/static/v1?label=Contact&message=Mail&color=success&style=flat-square"></a>
+  <a href="mailto:contact@mail.peya.tokyo"><img align="center" src="https://img.shields.io/static/v1?label=Contact&message=Mail&color=%23E45648&style=flat-square"></a>
   <img align="center" src="https://img.shields.io/static/v1?label=Discord&message=Peyang%230001&color=%237289DA&style=flat-square">
   <a href="https://twitter.com/peyang9799"><img align="center" src="https://img.shields.io/static/v1?label=Twitter&message=peyang9799&color=%231DA1F2&style=flat-square"></a>
   <br>
