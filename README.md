@@ -10,14 +10,14 @@
   <a href="https://twitter.com/peyang9799"><img align="center" src="https://img.shields.io/static/v1?label=Twitter&message=peyang9799&color=%231DA1F2&style=flat-square"></a>
   <br>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=peyang-Celeron&show_icons=true&theme=tokyonight_duo" height="200"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=peyang-Celeron&show_icons=true&theme=tokyonight" height="200"></a>
   <br>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peyang-Celeron&show_icons=true&theme=tokyonight_duo&hide=shell" height="200"></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img aligh="center" src="https://ghstreak.herokuapp.com/?user=peyang-Celeron&theme=tokyonight_duo" height=200></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peyang-Celeron&show_icons=true&theme=tokyonight&hide=shell" height="200"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img aligh="center" src="https://ghstreak.herokuapp.com/?user=peyang-Celeron&theme=tokyonight_duo" height="200"></a>
   <br>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=P2P-Develop&repo=PeyangSuperbAntiCheat&theme=tokyonight_duo" height="200"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=P2P-Develop&repo=PeyangSuperbAntiCheat&theme=tokyonight" height="200"></a>
   <br>
   <br>
   <a href="https://lapras.com/public/WNSZMG5"><img align="center" src="https://raw.githubusercontent.com/peyang-Celeron/peyang-Celeron/master/slide-summary.png"></a>
