@@ -2,7 +2,7 @@
 <h2 align="center">最強のぺやんぐ！</h2>
 <h3 align="center">AllManスタイル最強！</h3>
 <h4 align="center">永遠のJava8！</h4>
-<a aligh="center" href="http://clap.webclap.com/clap.php?id=SaikyouPeyangsan" target="_blank" onclick="window.open('http://clap.webclap.com/clap.php?id=SaikyouPeyangsan','webclap','toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes');return false;">web拍手ボタン</a>
+<a align="center" href="http://clap.webclap.com/clap.php?id=SaikyouPeyangsan" target="_blank" onclick="window.open('http://clap.webclap.com/clap.php?id=SaikyouPeyangsan','webclap','toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes');return false;">web拍手ボタン</a>
 <p align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="center" src="https://komarev.com/ghpvc/?username=peyang-Celeron&style=flat-square"></a>
   <br>
