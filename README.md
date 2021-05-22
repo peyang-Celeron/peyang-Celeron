@@ -13,6 +13,7 @@
   <br>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=peyang-Celeron&show_icons=true&theme=tokyonight" height="200"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=peyang-Celeron&row=1&no-bg=true&no-frame=true"></a>
   <br>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peyang-Celeron&show_icons=true&theme=tokyonight&hide=shell&layout=compact" height="200"></a>
