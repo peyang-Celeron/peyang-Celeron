@@ -2,6 +2,10 @@
 <h2 align="center">最強のぺやんぐ！</h2>
 <h3 align="center">AllManスタイル最強！</h3>
 <h4 align="center">永遠のJava8！</h4>
+  <details align="center">
+    <summary>そうはならんやろ</summary>
+    なっとるやろがい
+  </details>
 <p align="center">
   <a href="http://clap.webclap.com/clap.php?id=4SBCdSDI.97PjUFjsa7uds-o.nDxnnQ@&page_id=githubProfile" target="_blank" onclick="window.open('http://clap.webclap.com/clap.php?id=4SBCdSDI.97PjUFjsa7uds-o.nDxnnQ@&page_id=githubProfile','webclap','toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes');return false;">web拍手ボタン     </a><br>
     <a href="http://www.rays-counter.com/"><img align="center" src="http://www.rays-counter.com/d479_f6_025/6035578ba4ece/"></a>
