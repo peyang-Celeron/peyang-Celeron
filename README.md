@@ -23,7 +23,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peyang-Celeron&show_icons=true&theme=tokyonight&hide=shell&layout=compact" height="200"></a>
   <br>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=P2P-Develop&repo=PeyangSuperbAntiCheat&theme=tokyonight" height="200"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamKun&repo=TeamKunPluginManager&theme=tokyonight" height="200"></a>
   <br>
   <br>
   <a href="https://profile.codersrank.io/user/peyang-celeron/"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=peyang-Celeron" width="600"></a>
